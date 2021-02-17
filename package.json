@@ -8,11 +8,14 @@
     "url": "https://github.com/Snyk/shallow-goof"
   },
   "dependencies": {
-    "bson": "0.4.23",
+    "bson": "^0.4.23",
     "curling": "^1.0.0",
-    "gitlog": "^3.3.0",
+    "dotty": "^0.1.0",
+    "gitlog": "^3.0.0",
+    "highcharts": "^8.0.0",
+    "macfromip": "^1.1.0",
     "marked": "^1.1.2",
-    "node-uuid": "1.4.0",
+    "node-uuid": "^1.4.0",
     "qs": "^0.0.6",
     "set-or-get": "^1.0.0",
     "url-parse": "^1.4.0"
