@@ -8,9 +8,10 @@
     "url": "https://github.com/Snyk/shallow-goof"
   },
   "dependencies": {
-    "qs": "0.0.6",
+    "bson": "0.4.23",
+    "curling": "^1.0.0",
+    "gitlog": "^3.3.0",
     "node-uuid": "1.4.0",
-    "bson": "0.4.23"
+    "qs": "0.0.6"
   }
 }
-
